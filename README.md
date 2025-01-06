@@ -1,4 +1,4 @@
-# Amir Morsy iOS Task based on Rick and Morty Characters API
+# Amir Morsy Yassir iOS Task
 
 This project is an iOS application that fetches and displays character information from the Rick and Morty API. Users can browse, filter, and view detailed information about their favorite characters.
 
@@ -11,8 +11,7 @@ This project is an iOS application that fetches and displays character informati
 ### Steps to Build and Run
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone <https://github.com/merovic/iOS-Yassir-Test>
    ```
 
 2. Open the project in Xcode:
