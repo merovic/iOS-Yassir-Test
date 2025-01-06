@@ -2,15 +2,13 @@
 //  AppDelegate.swift
 //  take-home-test-ios
 //
-//  Created by PaySky106 on 02/01/2025.
+//  Created by Amir Ahmed on 02/01/2025.
 //
 
 import UIKit
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
-
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
