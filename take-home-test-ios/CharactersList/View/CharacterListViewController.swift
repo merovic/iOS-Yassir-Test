@@ -70,7 +70,7 @@ class CharacterListViewController: UIViewController {
     }
     
     private func setupMainView() {
-        let headerView = setupHeaderView()
+        let headerView = ViewFragmentation.embedSwiftUIView(view: FilterScrollView(viewModel: self.viewModel), parent: self)
         
         let stackView = UIStackView(arrangedSubviews: [headerView, tableView])
         stackView.axis = .vertical
